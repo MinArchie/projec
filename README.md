@@ -60,7 +60,7 @@ DDI-GNN-Prediction/
 
 ```bash
 git clone https://github.com/your-username/DDI-GNN-Prediction.git
-cd DDI-GNN-Prediction
+cd DDI-Prediction
 ```
 
 ### ▶️ Train the Model
@@ -113,11 +113,5 @@ Example ROC-AUC: **0.92** (GPU-trained)
 - Dr. Shabbeer Basha S H from RV University
 - RDKit for molecular graph extraction  
 - DrugBank for dataset access  
-
----
-
-## 📜 License
-
-MIT License. See `LICENSE` for details.
 
 ---
